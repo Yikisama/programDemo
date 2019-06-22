@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>Serialport.ico</file>
+        <file>Serialport1.ico</file>
+    </qresource>
+</RCC>
